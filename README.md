@@ -1,6 +1,6 @@
 # ExceptionCrashHandler
 全局异常类  
-[![GitHub release](https://img.shields.io/badge/release-v1.0.0-green.svg)](https://github.com/Thor-jelly/MaxNumEditText/releases)
+[![GitHub release](https://img.shields.io/badge/release-v1.0.0-green.svg)](https://github.com/Thor-jelly/ExceptionCrashHandler/releases)
 
 # 使用方法
 1. 在application中初始化
