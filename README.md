@@ -36,3 +36,18 @@
     ```
     
 # 具体请看源码注释已经很齐全了
+
+# 依赖
+
+```
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+	
+dependencies {
+	  compile 'com.github.Thor-jelly:ExceptionCrashHandler:v1.0.0'
+}	
+```
